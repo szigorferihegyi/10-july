@@ -4,6 +4,9 @@ ENG
 CRO
 FRA
 
-## Matches
+## Semifinal - Matches
 BEL vs. FRA
 ENG vs. CRO
+
+## Final
+BEL vs. CRO
