@@ -6,3 +6,5 @@
 
 ## Cycling tips
 
+- Barossa Valley
+- Adelaide Hills
