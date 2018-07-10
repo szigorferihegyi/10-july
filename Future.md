@@ -5,6 +5,7 @@
   - NY
   - Indonesia BALI
   - Thailand
+  - Namibia
   
   
 ## Learning
