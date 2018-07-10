@@ -8,6 +8,8 @@
   </p>
 </p>
 
+# :book: [Class Manual](https://githubtraining.github.io/training-manual-gh4m) :book:
+
 #### Prerequisites
 
 _Welcome! :wave: This is the source repository for the GitHub for Managers. Be sure to follow the prerequisite(s) below before coming to the workshop to get started!_
