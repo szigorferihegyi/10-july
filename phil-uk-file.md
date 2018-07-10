@@ -1,0 +1,3 @@
+London,
+GBP,
+GMT
