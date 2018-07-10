@@ -7,5 +7,7 @@
   
 ## Learning
   - Github
+  - Go
   - Machine Learning
+  - Block Chain
    
