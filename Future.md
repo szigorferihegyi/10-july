@@ -3,7 +3,9 @@
 ## Travel
   - SF
   - NY
-  - BALI
+  - Indonesia BALI
+  - Thailand
+  
   
 ## Learning
   - Github
